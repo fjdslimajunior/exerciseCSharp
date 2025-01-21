@@ -1,0 +1,14 @@
+E:\balta_io\Basic\obj\Debug\net9.0\Basic.GeneratedMSBuildEditorConfig.editorconfig
+E:\balta_io\Basic\obj\Debug\net9.0\Basic.AssemblyInfoInputs.cache
+E:\balta_io\Basic\obj\Debug\net9.0\Basic.AssemblyInfo.cs
+E:\balta_io\Basic\obj\Debug\net9.0\Basic.csproj.CoreCompileInputs.cache
+E:\balta_io\Basic\bin\Debug\net9.0\Basic.exe
+E:\balta_io\Basic\bin\Debug\net9.0\Basic.deps.json
+E:\balta_io\Basic\bin\Debug\net9.0\Basic.runtimeconfig.json
+E:\balta_io\Basic\bin\Debug\net9.0\Basic.dll
+E:\balta_io\Basic\bin\Debug\net9.0\Basic.pdb
+E:\balta_io\Basic\obj\Debug\net9.0\Basic.dll
+E:\balta_io\Basic\obj\Debug\net9.0\refint\Basic.dll
+E:\balta_io\Basic\obj\Debug\net9.0\Basic.pdb
+E:\balta_io\Basic\obj\Debug\net9.0\Basic.genruntimeconfig.cache
+E:\balta_io\Basic\obj\Debug\net9.0\ref\Basic.dll
