@@ -1,0 +1,14 @@
+E:\balta_io\DiasDaSemana\obj\Debug\net9.0\DiasDaSemana.GeneratedMSBuildEditorConfig.editorconfig
+E:\balta_io\DiasDaSemana\obj\Debug\net9.0\DiasDaSemana.AssemblyInfoInputs.cache
+E:\balta_io\DiasDaSemana\obj\Debug\net9.0\DiasDaSemana.AssemblyInfo.cs
+E:\balta_io\DiasDaSemana\obj\Debug\net9.0\DiasDaSemana.csproj.CoreCompileInputs.cache
+E:\balta_io\DiasDaSemana\bin\Debug\net9.0\DiasDaSemana.exe
+E:\balta_io\DiasDaSemana\bin\Debug\net9.0\DiasDaSemana.deps.json
+E:\balta_io\DiasDaSemana\bin\Debug\net9.0\DiasDaSemana.runtimeconfig.json
+E:\balta_io\DiasDaSemana\bin\Debug\net9.0\DiasDaSemana.dll
+E:\balta_io\DiasDaSemana\bin\Debug\net9.0\DiasDaSemana.pdb
+E:\balta_io\DiasDaSemana\obj\Debug\net9.0\DiasDaSemana.dll
+E:\balta_io\DiasDaSemana\obj\Debug\net9.0\refint\DiasDaSemana.dll
+E:\balta_io\DiasDaSemana\obj\Debug\net9.0\DiasDaSemana.pdb
+E:\balta_io\DiasDaSemana\obj\Debug\net9.0\DiasDaSemana.genruntimeconfig.cache
+E:\balta_io\DiasDaSemana\obj\Debug\net9.0\ref\DiasDaSemana.dll
