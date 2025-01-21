@@ -1,0 +1,15 @@
+E:\balta_io\MetodosEFuncoes\obj\Debug\net9.0\MetodosEFuncoes.GeneratedMSBuildEditorConfig.editorconfig
+E:\balta_io\MetodosEFuncoes\obj\Debug\net9.0\MetodosEFuncoes.AssemblyInfoInputs.cache
+E:\balta_io\MetodosEFuncoes\obj\Debug\net9.0\MetodosEFuncoes.AssemblyInfo.cs
+E:\balta_io\MetodosEFuncoes\obj\Debug\net9.0\MetodosEFuncoes.csproj.CoreCompileInputs.cache
+E:\balta_io\MetodosEFuncoes\obj\Debug\net9.0\MetodosEFuncoes.sourcelink.json
+E:\balta_io\MetodosEFuncoes\bin\Debug\net9.0\MetodosEFuncoes.exe
+E:\balta_io\MetodosEFuncoes\bin\Debug\net9.0\MetodosEFuncoes.deps.json
+E:\balta_io\MetodosEFuncoes\bin\Debug\net9.0\MetodosEFuncoes.runtimeconfig.json
+E:\balta_io\MetodosEFuncoes\bin\Debug\net9.0\MetodosEFuncoes.dll
+E:\balta_io\MetodosEFuncoes\bin\Debug\net9.0\MetodosEFuncoes.pdb
+E:\balta_io\MetodosEFuncoes\obj\Debug\net9.0\MetodosEFuncoes.dll
+E:\balta_io\MetodosEFuncoes\obj\Debug\net9.0\refint\MetodosEFuncoes.dll
+E:\balta_io\MetodosEFuncoes\obj\Debug\net9.0\MetodosEFuncoes.pdb
+E:\balta_io\MetodosEFuncoes\obj\Debug\net9.0\MetodosEFuncoes.genruntimeconfig.cache
+E:\balta_io\MetodosEFuncoes\obj\Debug\net9.0\ref\MetodosEFuncoes.dll
