@@ -1,0 +1,15 @@
+E:\balta_io\Struct0.1\bin\Debug\net9.0\Struct0.1.exe
+E:\balta_io\Struct0.1\bin\Debug\net9.0\Struct0.1.deps.json
+E:\balta_io\Struct0.1\bin\Debug\net9.0\Struct0.1.runtimeconfig.json
+E:\balta_io\Struct0.1\bin\Debug\net9.0\Struct0.1.dll
+E:\balta_io\Struct0.1\bin\Debug\net9.0\Struct0.1.pdb
+E:\balta_io\Struct0.1\obj\Debug\net9.0\Struct0.1.GeneratedMSBuildEditorConfig.editorconfig
+E:\balta_io\Struct0.1\obj\Debug\net9.0\Struct0.1.AssemblyInfoInputs.cache
+E:\balta_io\Struct0.1\obj\Debug\net9.0\Struct0.1.AssemblyInfo.cs
+E:\balta_io\Struct0.1\obj\Debug\net9.0\Struct0.1.csproj.CoreCompileInputs.cache
+E:\balta_io\Struct0.1\obj\Debug\net9.0\Struct0.1.sourcelink.json
+E:\balta_io\Struct0.1\obj\Debug\net9.0\Struct0.1.dll
+E:\balta_io\Struct0.1\obj\Debug\net9.0\refint\Struct0.1.dll
+E:\balta_io\Struct0.1\obj\Debug\net9.0\Struct0.1.pdb
+E:\balta_io\Struct0.1\obj\Debug\net9.0\Struct0.1.genruntimeconfig.cache
+E:\balta_io\Struct0.1\obj\Debug\net9.0\ref\Struct0.1.dll
