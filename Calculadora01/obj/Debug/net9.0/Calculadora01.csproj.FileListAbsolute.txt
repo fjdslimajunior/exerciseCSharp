@@ -1,0 +1,15 @@
+E:\balta_io\calculadora01\bin\Debug\net9.0\Calculadora01.exe
+E:\balta_io\calculadora01\bin\Debug\net9.0\Calculadora01.deps.json
+E:\balta_io\calculadora01\bin\Debug\net9.0\Calculadora01.runtimeconfig.json
+E:\balta_io\calculadora01\bin\Debug\net9.0\Calculadora01.dll
+E:\balta_io\calculadora01\bin\Debug\net9.0\Calculadora01.pdb
+E:\balta_io\calculadora01\obj\Debug\net9.0\Calculadora01.GeneratedMSBuildEditorConfig.editorconfig
+E:\balta_io\calculadora01\obj\Debug\net9.0\Calculadora01.AssemblyInfoInputs.cache
+E:\balta_io\calculadora01\obj\Debug\net9.0\Calculadora01.AssemblyInfo.cs
+E:\balta_io\calculadora01\obj\Debug\net9.0\Calculadora01.csproj.CoreCompileInputs.cache
+E:\balta_io\calculadora01\obj\Debug\net9.0\Calculadora01.sourcelink.json
+E:\balta_io\calculadora01\obj\Debug\net9.0\Calculadora01.dll
+E:\balta_io\calculadora01\obj\Debug\net9.0\refint\Calculadora01.dll
+E:\balta_io\calculadora01\obj\Debug\net9.0\Calculadora01.pdb
+E:\balta_io\calculadora01\obj\Debug\net9.0\Calculadora01.genruntimeconfig.cache
+E:\balta_io\calculadora01\obj\Debug\net9.0\ref\Calculadora01.dll
